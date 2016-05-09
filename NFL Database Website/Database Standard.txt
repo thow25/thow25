@@ -1,0 +1,30 @@
+CREATE TABLE teams(teamName VARCHAR(50) PRIMARY KEY,
+totalYards INTEGER, 
+passYards INTEGER, 
+rushYards INTEGER, 
+fgMade INTEGER, 
+fgAttempted INTEGER, 
+thirdDownMade INTEGER, 
+thirdDownAttempted INTEGER, 
+intThrown INTEGER, 
+fumbleLost INTEGER, 
+defenseInt INTEGER, 
+defenseFumble INTEGER, 
+pointsScored INTEGER, 
+pointsGivenUp INTEGER, 
+division VARCHAR(15), 
+conference VARCHAR(3)
+TDs INTEGER,
+paTDs,
+ruTDs);
+
+
+INSERT INTO teams(teamName, totalYards, passYards, rushYards, fgMade, fgAttempted, thirdDownMade, thirdDownAttempted, intThrown, fumbleLost , defenseInt, defenseFumble, pointsScored, pointsGivenUp, division, conference)
+
+
+espn and Pro football reference for pointsScored/pointsGivenUp
+
+INSERT INTO teams(teamName, totalYards, passYards, rushYards, fgMade, fgAttempted, thirdDownMade, thirdDownAttempted, intThrown, fumbleLost , defenseInt, defenseFumble, pointsScored, pointsGivenUp, division, conference)
+
+INSERT INTO teams(teamName, totalYards, passYards, rushYards, fgMade, fgAttempted, thirdDownMade, thirdDownAttempted, intThrown, fumbleLost , defenseInt, defenseFumble, pointsScored, pointsGivenUp, division, conference, TDs, paTDs, ruTDs) VALUES ("Cleveland Browns", 5193, 3465, 1728, 25, 32, 61, 207, 16, 7, 21, 6, 299, 337, "AFC North", "AFC", 29, 12, 17);
+INSERT INTO teams(teamName, totalYards, passYards, rushYards, fgMade, fgAttempted, thirdDownMade, thirdDownAttempted, intThrown, fumbleLost , defenseInt, defenseFumble, pointsScored, pointsGivenUp, division, conference, TDs, paTDs, ruTDs) VALUES ("San Francisco 49ers", 5239, 3063, 2176, 25, 31, 86, 213, 10, 12, 23, 6, 306, 340, "NFC West", "NFC", 30, 20, 10);
