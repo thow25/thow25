@@ -1,0 +1,8 @@
+In 1993 a computer scientist by the name of Yukihiro Matsumoto came up with an idea to create a programming language that would make 
+programmers happy with its power and its simplicity. In 1995 Matsumoto released a programming language by the name of Ruby   
+to the public and Ruby has now become one of the the most popular programming languages in the world. 
+Ruby combines key concepts and features from both the scripting language Perl and the Object-oriented language Python to create 
+a programming language that achieves Matsumoto's goal of being exceptionally powerful, yet simple to learn.
+In this presentation we will go over the history of Ruby and the features that Ruby brings to the programmers who use it, 
+as well as the reasons behind Ruby's popularity. At the conclusion of the presentation we will see an example application 
+that uses some of the features that Ruby incorporates.
